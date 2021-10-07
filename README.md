@@ -4,7 +4,7 @@ namespace PixelatedLagg
 {
   public static class GitHubProfile
   {
-    static string info => "- 🌱 I’m currently learning c++\n"
+    static string info => "- 🌱 I’m currently learning to use c# on linux\n"
                         + "- 📫 Discord: Pixelated_Lagg#8321\n"
                         + "- ⚡ Fun Fact: I am a young teenager";
     public static void ProfileInfo()
@@ -15,7 +15,7 @@ namespace PixelatedLagg
 }
 ```
 ```
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning to use c# on linux
 - 📫 Discord: Pixelated_Lagg#8321
 - ⚡ Fun Fact: I am a young teenager
 ```
