@@ -1,24 +1,13 @@
-```
-using System;
-namespace PixelatedLagg
+<pre>
+class PixelatedLagg
 {
-  public static class GitHubProfile
-  {
-    static string info => "- 🌱 I’m currently learning to use c# on linux\n"
-                        + "- 📫 Discord: Pixelated_Lagg#8321\n"
-                        + "- ⚡ Fun Fact: I am a young teenager";
-    public static void ProfileInfo()
+    string discord = "<a href="https://discord.com/users/527190089952919589">Pixelated_Lagg#8321</a>";
+    string[] languages = {"c#", "c++", "c", "html/css"};
+    string[] projects =
     {
-      Console.WriteLine(info);
-    }
-  }
+        "<a href="https://github.com/PixelatedLagg/CSWeb-lib">Csweb-lib</a>",
+        "<a href="https://github.com/MrEggoXYZ/Scrape">Scrape-lang</a>"
+    };
 }
-```
-```
-- 🌱 I’m currently learning to use c# on linux
-- 📫 Discord: Pixelated_Lagg#8321
-- ⚡ Fun Fact: I am a young teenager
-```
+</pre>
 [![PixelatedLagg's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelatedLagg&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelatedLagg&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
