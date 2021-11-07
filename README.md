@@ -5,8 +5,8 @@ class PixelatedLagg
     string[] languages = {"c#", "c++", "c", "html/css"};
     string[] projects =
     {
-        "<a href="https://github.com/PixelatedLagg/CSWeb-lib">Csweb-lib</a>",
-        "<a href="https://github.com/MrEggoXYZ/Scrape">Scrape-lang</a>"
+        "<a href="https://github.com/PixelatedLagg/Impart">Impart</a>",
+        "<a href="https://github.com/PixelatedLagg/Scrape">Scrape</a>"
     };
 }
 </pre>
