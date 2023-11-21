@@ -11,3 +11,9 @@
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/git-scm/git-scm.png" width="100" />
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/react/react.png" width="100" />
 </p>
+
+## Currently working on:
+
+- [P3D](https://github.com/PixelatedLagg/P3D)
+- [PMath](https://github.com/PixelatedLagg/PMath)
+- [MathInfo.org](https://github.com/PixelatedLagg/MathInfo)
