@@ -12,5 +12,5 @@
 
 ## Currently working on:
 
-- [P3D](https://github.com/PixelatedLagg/P3D)
+- (taking backseat) [P3D](https://github.com/PixelatedLagg/P3D)
 - (Primarily) [MathInfo.org](https://github.com/PixelatedLagg/MathInfo)
