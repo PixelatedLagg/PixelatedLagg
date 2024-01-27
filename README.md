@@ -10,6 +10,7 @@
 </p>
 
 ## Contact me:
+- Website: https://pixelatedlagg.github.io
 - Email: michiganmii2@gmail.com
 - Discord: pixelated_lagg
 
