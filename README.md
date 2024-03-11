@@ -18,4 +18,3 @@
 
 - [MathInfo.org](https://github.com/PixelatedLagg/MathInfo) - A React website dedicated to teaching math and programming concepts.
 - [P3D](https://github.com/PixelatedLagg/P3D) - A 3D physics engine build in C with OpenGL.
-- [PMath](https://github.com/PixelatedLagg/PMath) - A simple C# library to extend math functionality.
